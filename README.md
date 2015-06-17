@@ -3,11 +3,10 @@
 Modify your self esteem.
 
 ## Getting Started
-Install the module with: `npm install esteemify`
+Install the module with: `npm install -g esteemify`
 
 ```javascript
-var esteemify = require('esteemify');
-esteemify.awesome(); // "awesome"
+esteemify Gareth
 ```
 
 ## Documentation

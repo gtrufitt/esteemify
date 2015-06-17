@@ -1,7 +1,7 @@
 {
   "name": "esteemify",
   "description": "Modify your self esteem.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/gtrufitt/esteemify",
   "author": {
     "name": "gtrufitt",
@@ -27,6 +27,9 @@
   },
   "scripts": {
     "test": "grunt nodeunit"
+  },
+  "dependencies": {
+    "colors": "^1.1.0"
   },
   "devDependencies": {
     "colors": "^1.1.0",
