@@ -29,7 +29,9 @@
     "test": "grunt nodeunit"
   },
   "dependencies": {
-    "colors": "^1.1.0"
+    "colors": "^1.1.0",
+    "easy-get": "0.0.3",
+    "request": "^2.58.0"
   },
   "devDependencies": {
     "colors": "^1.1.0",
